@@ -1,51 +1,13 @@
-# Hi there, I'm Daniel Max Rafailov 👋
+# 💫 About Me:
+🔭 I’m currently working on [MarkUs at the University of Toronto](https://github.com/MarkUsProject/Markus)<br>👯 I’m looking to collaborate on open-source web applications and developer tools<br>🌱 I’m currently learning advanced systems programming and low-level optimization<br>💬 Ask me about full-stack development with Ruby on Rails and React, or iOS development with Swift<br>⚡ Fun fact: I published a sports betting app to the Apple App Store that hit a 5-star rating in its first week!
 
-<img src="https://komarev.com/ghpvc/?username=danielrafailov&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-I am an Honours Computer Science student at the **University of Toronto** (CGPA: 3.45/4, Dean's List Scholar) with a strong background in full-stack web development, open-source software maintenance, and high-performance applications. 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-rafailov-08a062156/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielrafailov7@gmail.com) 
 
----
-
-### 🛠️ Tech Stack
-* **Languages:** Python, JavaScript, C, Ruby, Java, HTML/CSS, TypeScript, Swift, C#
-* **Frameworks & Libraries:** Ruby on Rails, React.js, Express.js, Node.js, Tailwind CSS, Unity
-* **Tools & Infrastructure:** Git, GitHub, Docker, Postman, Xcode, Google Cloud, Apple iCloud, Hex Fiend, TSO/ISPF/SDSF
-* **Testing & Security:** RSpec, Jest, Coveralls, ESLint, Snyk, Prisma
-
----
-
-### 💼 Experience & Open Source
-
-* **Software Developer | Department of Computer Science @ UofT** *(May 2026 – Sept. 2026)*
-  * Maintained and developed **MarkUs**, a scalable assignment submission and automated testing platform used by thousands of students and instructors.
-  * Engineered full-stack features using **Ruby on Rails** and **React**, resolved state synchronization bugs, and optimized backend file-handling workflows.
-  * Stabilized the CI/CD deployment pipeline by resolving flaky tests and non-deterministic database queries using Jest and RSpec.
-* **Software Developer | Department of BioMedical Engineering @ UofT** *(May 2025 – Sept. 2025)*
-  * Developed stroke rehabilitation games using **C#** in Unity, successfully migrating *Flappy Bird* from a 2D engine to a 3D environment.
-
----
-
-### 🚀 Featured Projects
-
-* **[PointForge](https://github.com/Alex-Bangu/PointForge)** (Web Application)
-  * Full-stack web app enabling users to earn and redeem reward points on purchases.
-  * Built with a responsive React frontend, Express/Prisma RESTful API backend, bcrypt for secure password hashing, and JWT-based authentication.
-* **[Scada Application](https://github.com/scadable/.github)** (Lead Front-End Developer)
-  * Led frontend development for a SCADA project turned startup that secured investor interest.
-  * Developed UI components using React, TypeScript, and Tailwind CSS, and established a CI/CD pipeline via GitHub Actions using ESLint and Snyk.
-* **[Predictly](https://apps.apple.com/us/app/predictly/id6747910112)** (iOS App)
-  * Built a sports betting app from the ground up using Xcode and Swift with an integrated SQL database.
-  * Published to the Apple App Store, achieving a **5-star rating** within its first week.
-
----
-
-### 🏆 Honors & Accomplishments
-* **Dean's List Scholar** (2024, 2025) — University of Toronto
-* **UofTCTF 2026** — 6th Place (UofT Division), specializing in reverse engineering and forensics challenges.
-
----
-
-### 📫 Connect with Me
-* 📧 Email: [danielrafailov7@gmail.com](mailto:danielrafailov7@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/daniel-rafailov](https://linkedin.com/in/daniel-rafailov-08a062156)
-* 🐙 GitHub: [github.com/danielrafailov](https://github.com/danielrafailov)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=danielrafailov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=danielrafailov&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=danielrafailov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
